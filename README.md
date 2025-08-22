@@ -78,4 +78,4 @@ These insights can be used by the business to offer targeted promotions, such as
 
 You can interact with the live application deployed on Streamlit Cloud here:
 
-**[Paste your Streamlit App URL here]**
+**(https://teleco-churn-prediction-13.streamlit.app/)**
